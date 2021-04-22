@@ -1,10 +1,10 @@
-# Bienvenidos al proyecto de Batatabit
+# Bienvenidos al Juego de Js
 
->Este proyecto fue desarrollado con HTML y CSS
+>Este proyecto se hizo utilizando JavaScript
 
 Algunos aspectos que se trabajaron en el proyecto son: 
 
-- Responsive design
-- Media queries
-- Maquetación: mobile first
+- Funciones
+- Asincronismo
+- Un poco de HTML y CSS
 
